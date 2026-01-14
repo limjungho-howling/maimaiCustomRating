@@ -55,7 +55,7 @@ export default function Home() {
           {/* Logo */}
           <div className="mb-8">
             <Image
-              src="/maimaidxcircle.png"
+              src="/maimaidxcircle_logo.png"
               alt="maimai Logo"
               width={300}
               height={120}
